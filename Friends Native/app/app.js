@@ -2,9 +2,9 @@ var application = require("application");
 application.mainModule = "./views/main-page";
 
 /*
- * Define constants which we will use across the application
+ * Define constants which we will use across the application TEST
  */
-global.BS_API_KEY = "YrAbOec1qnIAqRge";
+global.BS_API_KEY = "yraboec1qniaqrge";
 global.BS_SCHEME = "http";
 global.BS_URL = "";
 global.TOKEN_DATA_KEY = "authenticationToken";
